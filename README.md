@@ -1,4 +1,4 @@
-<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="https://avatars.githubusercontent.com/u/101342158?s=400&u=84f9f160552791bd9023bf18cf145e0c837313fb&v=4" ></p>
+<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="https://avatars.githubusercontent.com/u/101342158?s=400&u=c5f4cdfff2a5d9f8d3cd8ea47f06942d0f8dd568&v=4" ></p>
 
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
