@@ -1,4 +1,4 @@
-<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="/assets/perfil-trybe-1.png" ></p>
+<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="https://avatars.githubusercontent.com/u/101342158?s=400&u=84f9f160552791bd9023bf18cf145e0c837313fb&v=4" ></p>
 
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
@@ -15,9 +15,9 @@
 </h1>
 <p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 <div align="center">
-  <a href="https://github.com/duribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/rafag3/">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafag3&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafag3&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 <div align="center" valign="top"><br>
@@ -43,5 +43,5 @@
 </div>
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  
 </div>
